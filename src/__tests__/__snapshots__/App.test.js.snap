@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> Testing saved tasks exist in the DOM 1`] = `
+Array [
+  <div
+    class="task-container"
+    data-testid="savedtask"
+  >
+    <h3>
+      Buy groceries
+    </h3>
+    <button
+      class="delete"
+      data-testid="btn-eliminar"
+    >
+      X
+    </button>
+  </div>,
+]
+`;
